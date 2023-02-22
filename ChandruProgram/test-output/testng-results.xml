@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-22T13:30:49 IST" name="Default suite" finished-at="2023-02-22T13:31:42 IST" duration-ms="53137">
+  <suite started-at="2023-02-22T23:52:08 IST" name="Default suite" finished-at="2023-02-22T23:53:08 IST" duration-ms="59878">
     <groups>
     </groups>
-    <test started-at="2023-02-22T13:30:49 IST" name="Default test" finished-at="2023-02-22T13:31:42 IST" duration-ms="53137">
-      <class name="ChanComplete2">
-        <test-method is-config="true" signature="chanco1()[pri:0, instance:ChanComplete2@769f71a9]" started-at="2023-02-22T13:30:49 IST" name="chanco1" finished-at="2023-02-22T13:31:38 IST" duration-ms="48840" status="PASS">
+    <test started-at="2023-02-22T23:52:08 IST" name="Default test" finished-at="2023-02-22T23:53:08 IST" duration-ms="59878">
+      <class name="ChanIron1">
+        <test-method is-config="true" signature="best1()[pri:0, instance:ChanIron1@769f71a9]" started-at="2023-02-22T23:52:08 IST" name="best1" finished-at="2023-02-22T23:53:05 IST" duration-ms="56669" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- chanco1 -->
-        <test-method signature="namesend()[pri:0, instance:ChanComplete2@769f71a9]" started-at="2023-02-22T13:31:38 IST" name="namesend" finished-at="2023-02-22T13:31:40 IST" duration-ms="1642" status="PASS">
+        </test-method> <!-- best1 -->
+        <test-method signature="best2()[pri:0, instance:ChanIron1@769f71a9]" started-at="2023-02-22T23:53:05 IST" name="best2" finished-at="2023-02-22T23:53:07 IST" duration-ms="1698" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- namesend -->
-        <test-method is-config="true" signature="qu()[pri:0, instance:ChanComplete2@769f71a9]" started-at="2023-02-22T13:31:40 IST" name="qu" finished-at="2023-02-22T13:31:42 IST" duration-ms="2279" status="PASS">
+        </test-method> <!-- best2 -->
+        <test-method is-config="true" signature="best3()[pri:0, instance:ChanIron1@769f71a9]" started-at="2023-02-22T23:53:07 IST" name="best3" finished-at="2023-02-22T23:53:08 IST" duration-ms="1371" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- qu -->
-      </class> <!-- ChanComplete2 -->
+        </test-method> <!-- best3 -->
+      </class> <!-- ChanIron1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
